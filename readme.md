@@ -49,7 +49,7 @@ the webcomponent.
 
 ## Properties
 
-- highlight
+- `highlighted`
 
 ## CSS Properties
 
